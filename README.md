@@ -1,8 +1,8 @@
-# 🧠 Scenario Trainer
+# 🧠 MindOps - Train Your Brain
 
-**Scenario Trainer** is a web-based platform designed to help people improve their real-life decision-making and problem-solving skills by practicing through short, realistic scenarios.
+**MindOps - Train Your Brain** is a web-based platform designed to help people improve their real-life decision-making and problem-solving skills by practicing through short, realistic scenarios.
 
-> Most people focus on technical skills — but what about **thinking** skills?  
+> Most people focus on technical skills — but what about **non-technical** skills?  
 > This project lets users explore real-world situations, make decisions, and receive meaningful feedback — all in a lightweight, intuitive interface.
 
 ---
