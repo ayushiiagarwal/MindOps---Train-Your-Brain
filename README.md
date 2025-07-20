@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 Scenario Trainer
 
-## Getting Started
+**Scenario Trainer** is a web-based platform designed to help people improve their real-life decision-making and problem-solving skills by practicing through short, realistic scenarios.
 
-First, run the development server:
+> Most people focus on technical skills — but what about **thinking** skills?  
+> This project lets users explore real-world situations, make decisions, and receive meaningful feedback — all in a lightweight, intuitive interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Purpose
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This tool is built for:
+- **Students** preparing for job interviews and soft-skill evaluations  
+- **Professionals** wanting to sharpen decision-making in business or team settings  
+- **Self-learners** who enjoy improving their judgment and thinking patterns  
+- Anyone looking to get better at **problem-solving** beyond just coding
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧩 Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🔹 Select from multiple categories like **Tech**, **Business**, **Time Management**, etc.
+- 🔹 View short but realistic **decision-based scenarios**
+- 🔹 Choose from options and receive **instant, contextual feedback**
+- 🔹 Clean, modern UI built with React + TailwindCSS
+- 🔹 Designed to be expanded with more categories and dynamic data
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠 Tech Stack
 
-## Deploy on Vercel
+- **Frontend**: [Next.js](https://nextjs.org/) (App Router)  
+- **Styling**: [TailwindCSS](https://tailwindcss.com/)  
+- **State Management**: React Hooks  
+- **Data**: Static TypeScript objects (`scenarioData.ts`)  
+- _Optional backend support_: [Supabase](https://supabase.com/) or MongoDB in the future
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
